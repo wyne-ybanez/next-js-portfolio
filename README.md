@@ -1,7 +1,5 @@
 # Basic Next.js Portfolio Website For Devs
 
-I wanted to rewrite this entire project on PHP. HydePHP specifically, as I am no longer interested in doing React.
-
 This is a different design of an already popular portfolio template. If you prefer the original that this is based off - you can check it out here: [Simple Portfolio Website](https://simple-developer-portfolio-website.vercel.app/).
 
 1. Detailed blog on this portfolio is on [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/), describing and explaining how this site was built from the ground up.
@@ -12,7 +10,8 @@ The proftolio template is a simple and minimalistic website to showcase your ski
 
 ## About Project
 
-My current portfolio still looks like this, minus the odd few tweaks here and there. This was the portfolio site template I have been using for years. It's time for me to pass it on.
+My current portfolio still looks like this, minus the odd few tweaks here and there. This was the portfolio site template I have been using for years. It's time for me to pass it on. 
+I am no longer maintaining this React project.
 
 You should have no problem with this if you know HTML, JSX, Tailwind. Even better if you know basic React. It really doesn't get more complicated than that.
 
